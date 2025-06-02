@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Animated To-Do List</title>
+  <link rel="stylesheet" href="todo.css" />
+</head>
+<body>
+  <div class="todo-app">
+    <h2>📝 My To-Do List</h2>
+    <div class="input-section">
+      <input type="text" id="task-input" placeholder="Add a new task..." />
+      <button id="add-btn">Add</button>
+    </div>
+    <div class="filters">
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn" data-filter="completed">Completed</button>
+      <button class="filter-btn" data-filter="pending">Pending</button>
+    </div>
+    <ul class="task-list" id="task-list"></ul>
+    <div class="dashboard" id="dashboard"></div>
+  </div>
+
+  <script src="todo.js"></script>
+</body>
+</html>
