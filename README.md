@@ -31,6 +31,12 @@ These animations provide a smooth and modern user experience without being distr
 
 ---
 
+## 📸 Screenshot
+![image](https://github.com/user-attachments/assets/9d381af8-f82f-4a74-9c15-13a1b3807a92)
+![image](https://github.com/user-attachments/assets/ed09ab6a-5918-4ef4-8a75-ee9fa9bf94c2)
+
+---
+
 ## 🛠️ Technologies Used
 
 - **HTML5** for structure  
@@ -40,22 +46,9 @@ These animations provide a smooth and modern user experience without being distr
 
 ---
 
-
----
-
-## 🚀 How to Use
-
-1. Clone or download this repository  
-2. Open the `index.html` file in any modern web browser (Chrome, Firefox, Edge, Safari)  
-3. Add tasks by typing in the input field and clicking **Add** or pressing **Enter**  
-4. Click a task text to toggle completion status  
-5. Click the red ✖ button to delete a task  
-6. Use filter buttons to switch between All, Completed, and Pending tasks  
-7. Your tasks will be saved automatically in your browser
-
----
-
 ## 👨‍💻 Author
 
 **Samarth Varshney**  
 Thank you for checking out this project! 😊
+
+
