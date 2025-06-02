@@ -5,7 +5,7 @@ This project features a smooth and modern user interface with animated task entr
 
 ---
 
-## 🌟 Features
+## Features
 
 - **Add tasks** with a clean input field and animated button  
 - **Delete tasks** individually with a red ✖ button  
@@ -19,7 +19,7 @@ This project features a smooth and modern user interface with animated task entr
 
 ---
 
-## 🎨 Animated GUI
+## Animated GUI
 
 The UI incorporates subtle but elegant animations:  
 - Input box highlights on focus  
@@ -31,13 +31,13 @@ These animations provide a smooth and modern user experience without being distr
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 ![image](https://github.com/user-attachments/assets/9d381af8-f82f-4a74-9c15-13a1b3807a92)
 ![image](https://github.com/user-attachments/assets/ed09ab6a-5918-4ef4-8a75-ee9fa9bf94c2)
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** for structure  
 - **CSS3** with animations and responsive styling  
@@ -46,9 +46,7 @@ These animations provide a smooth and modern user experience without being distr
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Samarth Varshney**  
 Thank you for checking out this project! 😊
-
-
